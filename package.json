@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  },
+  "name": "meu-bot-agendamento",
+  "version": "1.0.0",
+  "description": "Meu bot de agendamento de horários",
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
