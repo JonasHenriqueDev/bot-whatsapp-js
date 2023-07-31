@@ -107,7 +107,6 @@ Confirma?
 		switch (message.body) {
 			case '1':
 				message.reply('Horário confirmado!');
-				// Realize aqui a lógica para agendar o horário (por exemplo, salvar em um banco de dados ou arquivo)
 				break;
 			case '2':
 				message.reply('Agendamento cancelado!');
