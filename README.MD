@@ -1,6 +1,6 @@
 https://wwebjs.dev/
 
-$ npm i whatsapp-web.js
+$ npm install
 
 $ npm start
 
