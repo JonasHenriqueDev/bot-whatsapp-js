@@ -125,7 +125,7 @@ client.on('message', async message => {
 	if (message.body === '!ping') {
 		message.reply('pong');
 	} else if (etapaAgendamento === 1 && message.body === '1') {
-		message.reply(`Claro, ficarei feliz em ajudar! Para agendar um computador, precisamos verificar a disponibilidade. 
+		message.reply(`Claro, ficarei feliz em ajudar! Para agendar um laboratório, precisamos verificar a disponibilidade. 
 Poderia me informar o dia em que deseja agendar?
 
 1 - Segunda-Feira
