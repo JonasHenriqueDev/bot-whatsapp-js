@@ -5,3 +5,5 @@ $ npm install
 $ npm start
 
 No aplicativo do Whatsapp do celular, leia o QRCode gerado no terminal.
+
+https://github.com/JonasHenriqueDev/chatbotwpp-api
