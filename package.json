@@ -1,12 +1,15 @@
 {
   "dependencies": {
+    "axios": "^1.4.0",
+    "js": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
-    "sheetdb-node": "^0.0.12",
+    "web": "^0.0.2",
+    "whatsapp": "^0.0.5-Alpha",
     "whatsapp-web.js": "^1.21.0"
   },
   "name": "meu-bot-agendamento",
   "version": "1.0.0",
-  "description": "Meu bot de agendamento de horários",
+  "description": "Bot de agendamento de horários para o LAPES",
   "scripts": {
     "start": "node bot.js"
   }
